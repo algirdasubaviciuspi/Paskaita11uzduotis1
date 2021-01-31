@@ -1,0 +1,17 @@
+Šiandien - labai gera diena! Šeštadienis.
+------------------
+ Raidė  Skaičius
+------------------
+     š         3
+     i         6
+     a         6
+     n         4
+     d         3
+     e         5
+     l         1
+     b         1
+     g         1
+     r         1
+     t         1
+     s         1
+------------------
